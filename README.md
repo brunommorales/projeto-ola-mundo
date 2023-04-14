@@ -10,7 +10,7 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 
 # 🚀Características:
 
-## Este é um projeto desenvolvido em formato de portfólio com artigos de tecnologia.
+ Este é um projeto desenvolvido em formato de portfólio com artigos de tecnologia.
 
 ## Como executar o projeto?
 
